@@ -1,0 +1,16 @@
+#clock {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    border-radius: 05%;
+    transform: translate(-50%, -50%);
+    width: 500px;
+    height: 100px;
+    box-sizing: border-box;
+    background-image: url(11.png);
+    font-size: 80px;
+    color: #00FF06;
+    font-family: sans-serif;
+    text-align: center;
+    
+}
